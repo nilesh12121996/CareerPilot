@@ -2,7 +2,7 @@
 
 An industrial-grade, multi-agent AI automation system designed to discover, filter, and autonomously apply for Software Engineering and AI/ML roles. CareerPilot integrates intelligent scraping, strict compliance formatting, and robotic process automation (RPA) to streamline the job search process, with a specialized focus on verifying H1B transfer eligibility.
 
-![CareerPilot Architecture](./architecture-diagram.jpg)
+![CareerPilot Architecture](assets/architecture-diagram.jpg)
 
 ## 🏗️ System Architecture
 
